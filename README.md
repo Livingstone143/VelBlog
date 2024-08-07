@@ -223,8 +223,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://github.com/Livingstone143.svg?style=for-the-badge
-[contributors-url]:https://github.com/Livingstone143/graphs/contributors
+[contributors-shield]:https://github.com/Livingstone143/VelBlog.svg?style=for-the-badge
+[contributors-url]:https://github.com/Livingstone143/VelBlog/graphs/contributors
 [forks-shield]: https://github.com/Livingstone143.svg?style=for-the-badge
 [forks-url]: https://github.com/Livingstone143/network/members
 [stars-shield]: https://github.com/Livingstone143.svg?style=for-the-badge
